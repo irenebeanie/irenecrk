@@ -79,3 +79,45 @@ main {
 .nav-list li a:hover {
     color: #ff4081;
 }
+
+/* main content */
+
+.main-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-grow: 1;
+}
+
+.main-content h1 {
+    font-size: 3rem;
+    margin-bottom: 5px;
+}
+
+.main-content p {
+    font-size: 1.2rem;
+    color: #ddd;
+}
+
+/* footer */
+
+.footer {
+    text-align: center;
+    padding: 15px 0;
+    font-size: 0.9rem;
+    border-top: 1px solid #444;
+    margin-top: 30px;
+    color: #e7e7e7;
+}
+
+.footer a[href="https://youtube.com/@espressosimp"] {
+    text-decoration: none;
+    font-weight: bold;
+    color: inherit;
+    transition: color 0.3s ease;
+}
+
+.footer a[href="https://youtube.com/@espressosimp"]:hover {
+    color: #ff4081;
+}
