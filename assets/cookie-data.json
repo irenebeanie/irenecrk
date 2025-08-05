@@ -1,0 +1,1179 @@
+{
+    "cookies": {
+        "GingerBrave": {
+            "type": "Charge",
+            "rarity": "Common",
+            "position": "Front",
+            "sortOrder": 1,
+            "icon-image": "/assets/images/cookie-icons/gingerbrave-icon.webp"
+        },
+
+        "Strawberry": {
+            "type": "Defense",
+            "rarity": "Common",
+            "position": "Front",
+            "sortOrder": 2,
+            "icon-image": "/assets/images/cookie-icons/strawberry-icon.webp"
+        },
+
+        "Wizard": {
+            "type": "Magic",
+            "rarity": "Common",
+            "position": "Middle",
+            "sortOrder": 3,
+            "icon-image": "/assets/images/cookie-icons/wizard-icon.webp"
+        },
+
+        "Ninja": {
+            "type": "Ambush",
+            "rarity": "Common",
+            "position": "Middle",
+            "sortOrder": 4,
+            "icon-image": "/assets/images/cookie-icons/ninja-icon.webp"
+        },
+
+        "Angel": {
+            "type": "Healer",
+            "rarity": "Common",
+            "position": "Back",
+            "sortOrder": 5,
+            "icon-image": "/assets/images/cookie-icons/angel-icon.webp"
+        },
+
+        "Muscle": {
+            "type": "Charge",
+            "rarity": "Common",
+            "position": "Front",
+            "sortOrder": 6,
+            "icon-image": "/assets/images/cookie-icons/muscle-icon.webp"
+        },
+
+        "Beet": {
+            "type": "Ranged",
+            "rarity": "Common",
+            "position": "Back",
+            "sortOrder": 7,
+            "icon-image": "/assets/images/cookie-icons/beet-icon.webp"
+        },
+
+        "Devil": {
+            "type": "Magic",
+            "rarity": "Rare",
+            "position": "Middle",
+            "sortOrder": 20,
+            "icon-image": "/assets/images/cookie-icons/devil-icon.webp"
+        },
+
+        "Custard Cookie III": {
+            "type": "Healer",
+            "rarity": "Rare",
+            "position": "Back",
+            "sortOrder": 9,
+            "icon-image": "/assets/images/cookie-icons/custard-cookie-iii-icon.webp"
+        },
+
+        "Clover": {
+            "type": "Support",
+            "rarity": "Rare",
+            "position": "Back",
+            "sortOrder": 10,
+            "icon-image": "/assets/images/cookie-icons/clover-icon.webp"
+        },
+
+        "Carrot": {
+            "type": "Support",
+            "rarity": "Rare",
+            "position": "Middle",
+            "sortOrder": 11,
+            "icon-image": "/assets/images/cookie-icons/carrot-icon.webp"
+        },
+
+        "Avocado": {
+            "type": "Defense",
+            "rarity": "Rare",
+            "position": "Front",
+            "sortOrder": 12,
+            "icon-image": "/assets/images/cookie-icons/avocado-icon.webp"
+        },
+
+        "Pancake": {
+            "type": "Ambush",
+            "rarity": "Rare",
+            "position": "Front",
+            "sortOrder": 13,
+            "icon-image": "/assets/images/cookie-icons/pancake-icon.webp"
+        },
+
+        "Onion": {
+            "type": "Support",
+            "rarity": "Rare",
+            "position": "Middle",
+            "sortOrder": 14,
+            "icon-image": "/assets/images/cookie-icons/onion-icon.webp"
+        },
+
+        "Gumball": {
+            "type": "Bomber",
+            "rarity": "Rare",
+            "position": "Back",
+            "sortOrder": 15,
+            "icon-image": "/assets/images/cookie-icons/gumball-icon.webp"
+        },
+
+        "Blackberry": {
+            "type": "Magic",
+            "rarity": "Rare",
+            "position": "Back",
+            "sortOrder": 16,
+            "icon-image": "/assets/images/cookie-icons/blackberry-icon.webp"
+        },
+
+        "Adventurer": {
+            "type": "Ambush",
+            "rarity": "Rare",
+            "position": "Middle",
+            "sortOrder": 17,
+            "icon-image": "/assets/images/cookie-icons/adventurer-icon.webp"
+        },
+
+        "Cherry": {
+            "type": "Bomber",
+            "rarity": "Rare",
+            "position": "Back",
+            "sortOrder": 18,
+            "icon-image": "/assets/images/cookie-icons/cherry-icon.webp"
+        },
+
+        "Knight": {
+            "type": "Defense",
+            "rarity": "Rare",
+            "position": "Front",
+            "sortOrder": 19,
+            "icon-image": "/assets/images/cookie-icons/knight-icon.webp"
+        },
+
+        "Princess": {
+            "type": "Charge",
+            "rarity": "Rare",
+            "position": "Front",
+            "sortOrder": 8,
+            "icon-image": "/assets/images/cookie-icons/princess-icon.webp"
+        },
+
+        "Sonic": {
+            "type": "Ambush",
+            "rarity": "Special",
+            "position": "Middle",
+            "sortOrder": 57
+        },
+
+        "Tails": {
+            "type": "Ambush",
+            "rarity": "Special",
+            "position": "Middle",
+            "sortOrder": 58
+        },
+
+        "RM": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 80
+        },
+
+        "Jin": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Middle",
+            "sortOrder": 81
+        },
+
+        "SUGA": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Middle",
+            "sortOrder": 82
+        },
+
+        "j-hope": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 83
+        },
+
+        "Jimin": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 84
+        },
+
+        "V": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Middle",
+            "sortOrder": 85
+        },
+
+        "Jung Kook": {
+            "type": "BTS",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 86
+        },
+
+        "Snapdragon": {
+            "type": "Support",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 87
+        },
+
+        "Icicle Yeti": {
+            "type": "Healer",
+            "rarity": "Special",
+            "position": "Front",
+            "sortOrder": 115
+        },
+
+        "Cream Ferret": {
+            "type": "Support",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 131
+        },
+
+        "Marshmallow Bunny": {
+            "type": "Support",
+            "rarity": "Special",
+            "position": "Back",
+            "sortOrder": 151
+        },
+
+        "Snow Sugar": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 21
+        },
+
+        "Vampire": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 22
+        },
+
+        "Tiger Lily": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 23
+        },
+
+        "Werewolf": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 24
+        },
+
+        "Mint Choco": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 25
+        },
+
+        "Herb": {
+            "type": "Healer",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 26
+        },
+
+        "Dark Choco": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 27
+        },
+
+        "Sparkling": {
+            "type": "Healer",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 28
+        },
+
+        "Chili Pepper": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 29
+        },
+
+        "Pomegranate": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 30
+        },
+
+        "Purple Yam": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 31
+        },
+
+        "Milk": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 32
+        },
+
+        "Poison Mushroom": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 33
+        },
+
+        "Licorice": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 34
+        },
+
+        "Madeleine": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 35
+        },
+
+        "Espresso": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 36
+        },
+
+        "Rye": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 37
+        },
+
+        "Kumiho": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 38
+        },
+
+        "Latte": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 40
+        },
+
+        "Cream Puff": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 39
+        },
+
+        "Almond": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 41
+        },
+
+        "Black Raisin": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 42
+        },
+
+        "Strawberry Crepe": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 44
+        },
+
+        "Fig": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 45
+        },
+
+        "Pastry": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 46
+        },
+
+        "Red Velvet": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 47
+        },
+
+        "Mango": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 48
+        },
+
+        "Lilac": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 50
+        },
+
+        "Squid Ink": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 51
+        },
+
+        "Sorbet Shark": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 52
+        },
+
+        "Parfait": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 53
+        },
+
+        "Raspberry": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 55
+        },
+
+        "Moon Rabbit": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 56
+        },
+
+        "Mala Sauce": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 59
+        },
+
+        "Twizzly Gummy": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 60
+        },
+
+        "Pumpkin Pie": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 61
+        },
+
+        "Cotton": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 62
+        },
+
+        "Cocoa": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 64
+        },
+
+        "Eclair": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 65
+        },
+
+        "Tea Knight": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 66
+        },
+
+        "Affogato": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 67
+        },
+
+        "Caramel Arrow": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 69
+        },
+
+        "Cherry Blossom": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 70
+        },
+
+        "Wildberry": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 72
+        },
+
+        "Crunchy Chip": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 73
+        },
+
+        "Financier": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 75
+        },
+
+        "Cream Unicorn": {
+            "type": "Healer",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 76
+        },
+
+        "Captain Caviar": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 78
+        },
+
+        "Candy Diver": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 79
+        },
+
+        "Schwarzwälder": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 88
+        },
+
+        "Macaron": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 89
+        },
+
+        "Carol": {
+            "type": "Healer",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 90
+        },
+
+        "Pinecone": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 91
+        },
+
+        "Prophet": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 92
+        },
+
+        "Milky Way": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 93
+        },
+
+        "Blueberry Pie": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 95
+        },
+
+        "Space Doughnut": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 96
+        },
+
+        "Prune Juice": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 99
+        },
+
+        "Kouign-Amann": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 100
+        },
+
+        "Royal Margarine": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 102
+        },
+
+        "Tarte Tatin": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 103
+        },
+
+        "Rockstar": {
+            "type": "Healer",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 104
+        },
+
+        "Black Lemonade": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 106
+        },
+
+        "Peppermint": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 107
+        },
+
+        "Frilled Jelly": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 109
+        },
+
+        "Burnt Cheese": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 110
+        },
+
+        "Fettuccine": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 112
+        },
+
+        "Mozzarella": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 113
+        },
+
+        "Olive": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 114
+        },
+
+        "Linzer": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 117
+        },
+
+        "Crème Brûlée Cookie": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 116
+        },
+
+        "Rebel": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 118
+        },
+
+        "Silverbell": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 119
+        },
+
+        "Mercurial Knight": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 121
+        },
+
+        "Matcha": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 123
+        },
+
+        "Butter Roll": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 124
+        },
+        
+        "Caramel Choux": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 125
+        },
+
+        "Street Urchin": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 126
+        },
+
+        "Cloud Haetae": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 127
+        },
+
+        "Peach Blossom": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 130
+        },
+
+        "Star Coral": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 132
+        },
+
+        "Nutmeg": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 135
+        },
+
+        "Smoked Cheese": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 136
+        },
+
+        "Golden Osmanthus": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 138
+        },
+
+        "Red Osmanthus": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 139
+        },
+
+        "Choco Drizzle": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 140
+        },
+
+        "Pudding à la Mode": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 141
+        },
+
+        "Green Tea Mousse": {
+            "type": "Defense",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 142
+        },
+
+        "Okchun": {
+            "type": "Healer",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 143
+        },
+
+        "Candy Apple": {
+            "type": "Bomber",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 144
+        },
+
+        "Black Sapphire": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 146
+        },
+
+        "Black Forest": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 139
+        },
+
+        "Wedding Cake": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 140
+        },
+
+        "Agar Agar": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 141
+        },
+
+        "Pavlova": {
+            "type": "Ranged",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 146
+        },
+
+        "Sugarfly": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 148
+        },
+
+        "Cream Soda": {
+            "type": "Charge",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 149
+        },
+
+        "Lemon": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Middle",
+            "sortOrder": 150
+        },
+
+        "Orange": {
+            "type": "Magic",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 152
+        },
+
+        "Jagae": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Front",
+            "sortOrder": 153
+        },
+
+        "Manju": {
+            "type": "Ambush",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 154
+        },
+
+        "Lime": {
+            "type": "Support",
+            "rarity": "Epic",
+            "position": "Back",
+            "sortOrder": 155
+        },
+
+        "Clotted Cream": {
+            "type": "Magic",
+            "rarity": "Super Epic",
+            "position": "Middle",
+            "sortOrder": 71
+        },
+
+        "Oyster": {
+            "type": "Support",
+            "rarity": "Super Epic",
+            "position": "Back",
+            "sortOrder": 74
+        },
+
+        "Sherbet": {
+            "type": "Ranged",
+            "rarity": "Super Epic",
+            "position": "Middle",
+            "sortOrder": 90
+        },
+
+        "Stardust": {
+            "type": "Ambush",
+            "rarity": "Super Epic",
+            "position": "Middle",
+            "sortOrder": 97
+        },
+
+        "Capsaicin": {
+            "type": "Charge",
+            "rarity": "Super Epic",
+            "position": "Front",
+            "sortOrder": 98
+        },
+
+        "Shining Glitter": {
+            "type": "Magic",
+            "rarity": "Super Epic",
+            "position": "Middle",
+            "sortOrder": 105
+        },
+
+        "Crimson Coral": {
+            "type": "Defense",
+            "rarity": "Super Epic",
+            "position": "Front",
+            "sortOrder": 108
+        },
+
+        "Elder Faerie": {
+            "type": "Defense",
+            "rarity": "Super Epic",
+            "position": "Front",
+            "sortOrder": 122
+        },
+
+        "Camellia": {
+            "type": "Charge",
+            "rarity": "Super Epic",
+            "position": "Front",
+            "sortOrder": 137
+        },
+
+        "Pitaya": {
+            "type": "Charge",
+            "rarity": "Dragon",
+            "position": "Front",
+            "sortOrder": 101
+        },
+
+        "Sea Fairy": {
+            "type": "Bomber",
+            "rarity": "Legendary",
+            "position": "Middle",
+            "sortOrder": 49
+        },
+
+        "Black Pearl": {
+            "type": "Ambush",
+            "rarity": "Legendary",
+            "position": "Middle",
+            "sortOrder": 77
+        },
+
+        "Frost Queen": {
+            "type": "Magic",
+            "rarity": "Legendary",
+            "position": "Middle",
+            "sortOrder": 63
+        },
+
+        "Moonlight": {
+            "type": "Magic",
+            "rarity": "Legendary",
+            "position": "Middle",
+            "sortOrder": 94
+        },
+
+        "Stormbringer": {
+            "type": "Charge",
+            "rarity": "Legendary",
+            "position": "Front",
+            "sortOrder": 160
+        },
+
+        "Wind Archer": {
+            "type": "Ranged",
+            "rarity": "Legendary",
+            "position": "Back",
+            "sortOrder": 133
+        },
+
+        "Fire Spirit": {
+            "type": "Magic",
+            "rarity": "Legendary",
+            "position": "Back",
+            "sortOrder": 143
+        },
+
+        "Pure Vanilla": {
+            "type": "Healer",
+            "rarity": "Ancient",
+            "position": "Back",
+            "sortOrder": 43
+        },
+
+        "Dark Cacao": {
+            "type": "Charge",
+            "rarity": "Ancient",
+            "position": "Front",
+            "sortOrder": 68
+        },
+
+        "Hollyberry": {
+            "type": "Defense",
+            "rarity": "Ancient",
+            "position": "Front",
+            "sortOrder": 54
+        },
+
+        "Golden Cheese": {
+            "type": "Ranged",
+            "rarity": "Ancient",
+            "position": "Middle",
+            "sortOrder": 111
+        },
+
+        "White Lily": {
+            "type": "Bomber",
+            "rarity": "Ancient",
+            "position": "Middle",
+            "sortOrder": 120
+        },
+
+        "Dark Cacao Awakened": {
+            "type": "Charge",
+            "rarity": "Ancient Awakened",
+            "position": "Front",
+            "sortOrder": 129
+        },
+
+        "Golden Cheese Awakened": {
+            "type": "Ranged",
+            "rarity": "Ancient Awakened",
+            "position": "Middle",
+            "sortOrder": 162
+        },
+
+        "Pure Vanilla Awakened": {
+            "type": "Healer",
+            "rarity": "Ancient Awakened",
+            "position": "Back",
+            "sortOrder": 137
+        },
+
+        "Hollyberry Awakened": {
+            "type": "Defense",
+            "rarity": "Ancient Awakened",
+            "position": "Front",
+            "sortOrder": 147
+        },
+
+        "Mystic Flour": {
+            "type": "Healer",
+            "rarity": "Beast",
+            "position": "Back",
+            "sortOrder": 128
+        },
+
+        "Burning Spice": {
+            "type": "Charge",
+            "rarity": "Beast",
+            "position": "Front",
+            "sortOrder": 134
+        },
+
+        "Shadow Milk": {
+            "type": "Magic",
+            "rarity": "Beast",
+            "position": "Middle",
+            "sortOrder": 145
+        },
+
+        "Eternal Sugar": {
+            "type": "Bomber",
+            "rarity": "Beast",
+            "position": "Middle",
+            "sortOrder": 144
+        }
+        
+    }
+}

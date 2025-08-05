@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/styles.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="/assets/cookie-showcase.js"></script>
+    <title>Cookie Builds</title>
+</head>
+<body>
+    <div class="content-box">
+
+        <!-- nav bar -->
+         <div id="nav-placeholder"></div>
+         <script>
+            $(function(){
+                $("#nav-placeholder").load("/assets/nav.html", function() {
+                    // Optionally, you can do something after nav loads
+                });
+                loadCookieData(); // <-- Add this line to call your loader!
+            });
+         </script>
+
+        <div class="main-content">
+            <h1>Cookie Builds</h1>
+            <p>Select Cookie below to see build!</p>
+
+            <div id="cookie-container" class="cookie-grid-wrapper">
+                <div class="cookie-grid">
+                    <div id="cookie-detail" class="page">
+                    <h2 id="cookie-detail-name"></h2>
+                    <div id="cookie-detail-type"></div>
+                    <div id="cookie-detail-rarity"></div>
+                    <div id="cookie-detail-position"></div>
+                    <div id="cookie-detail-description"></div>
+                </div>
+              </div>
+            </div>
+
+        </div>
+
+        <!-- footer -->
+        <footer class="footer">
+            made with love by <a href="https://youtube.com/@espressosimp">irene</a> ♡ <br>all assets belong to devsis
+        </footer>
+    </div>
+</body>
+</html>
