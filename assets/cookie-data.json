@@ -164,1015 +164,1202 @@
             "type": "Ambush",
             "rarity": "Special",
             "position": "Middle",
-            "sortOrder": 57
+            "sortOrder": 57,
+            "icon-image": "/assets/images/cookie-icons/sonic-icon.webp"
         },
 
         "Tails": {
             "type": "Ambush",
             "rarity": "Special",
             "position": "Middle",
-            "sortOrder": 58
+            "sortOrder": 58,
+            "icon-image": "/assets/images/cookie-icons/tails-icon.webp"
         },
 
         "RM": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 80
+            "sortOrder": 80,
+            "icon-image": "/assets/images/cookie-icons/rm-icon.webp"
         },
 
         "Jin": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Middle",
-            "sortOrder": 81
+            "sortOrder": 81,
+            "icon-image": "/assets/images/cookie-icons/jin-icon.webp"
         },
 
         "SUGA": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Middle",
-            "sortOrder": 82
+            "sortOrder": 82,
+            "icon-image": "/assets/images/cookie-icons/suga-icon.webp"
         },
 
         "j-hope": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 83
+            "sortOrder": 83,
+            "icon-image": "/assets/images/cookie-icons/j-hope-icon.webp"
         },
 
         "Jimin": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 84
+            "sortOrder": 84,
+            "icon-image": "/assets/images/cookie-icons/jimin-icon.webp"
         },
 
         "V": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Middle",
-            "sortOrder": 85
+            "sortOrder": 85,
+            "icon-image": "/assets/images/cookie-icons/v-icon.webp"
         },
 
         "Jung Kook": {
             "type": "BTS",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 86
+            "sortOrder": 86,
+            "icon-image": "/assets/images/cookie-icons/jungkook-icon.webp"
         },
 
         "Snapdragon": {
             "type": "Support",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 87
+            "sortOrder": 87,
+            "icon-image": "/assets/images/cookie-icons/snapdragon-icon.webp"
         },
 
         "Icicle Yeti": {
             "type": "Healer",
             "rarity": "Special",
             "position": "Front",
-            "sortOrder": 115
+            "sortOrder": 115,
+            "icon-image": "/assets/images/cookie-icons/icicle-yeti-icon.webp"
         },
 
         "Cream Ferret": {
             "type": "Support",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 131
+            "sortOrder": 131,
+            "icon-image": "/assets/images/cookie-icons/cream-ferret-icon.webp"
         },
 
         "Marshmallow Bunny": {
             "type": "Support",
             "rarity": "Special",
             "position": "Back",
-            "sortOrder": 151
+            "sortOrder": 151,
+            "icon-image": "/assets/images/cookie-icons/marshmallow-bunny-icon.webp"
         },
 
         "Snow Sugar": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 21
+            "sortOrder": 21,
+            "icon-image": "/assets/images/cookie-icons/snow-sugar-icon.webp"
         },
 
         "Vampire": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 22
+            "sortOrder": 22,
+            "icon-image": "/assets/images/cookie-icons/vampire-icon.webp"
         },
 
         "Tiger Lily": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 23
+            "sortOrder": 23,
+            "icon-image": "/assets/images/cookie-icons/tiger-lily-icon.webp"
         },
 
         "Werewolf": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 24
+            "sortOrder": 24,
+            "icon-image": "/assets/images/cookie-icons/werewolf-icon.webp"
         },
 
         "Mint Choco": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 25
+            "sortOrder": 25,
+            "icon-image": "/assets/images/cookie-icons/mint-choco-icon.webp"
         },
 
         "Herb": {
             "type": "Healer",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 26
+            "sortOrder": 26,
+            "icon-image": "/assets/images/cookie-icons/herb-icon.webp"
         },
 
         "Dark Choco": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 27
+            "sortOrder": 27,
+            "icon-image": "/assets/images/cookie-icons/dark-choco-icon.webp"
         },
 
         "Sparkling": {
             "type": "Healer",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 28
+            "sortOrder": 28,
+            "icon-image": "/assets/images/cookie-icons/sparkling-icon.webp"
         },
 
         "Chili Pepper": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 29
+            "sortOrder": 29,
+            "icon-image": "/assets/images/cookie-icons/chili-pepper-icon.webp"
         },
 
         "Pomegranate": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 30
+            "sortOrder": 30,
+            "icon-image": "/assets/images/cookie-icons/pomegranate-icon.webp"
         },
 
         "Purple Yam": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 31
+            "sortOrder": 31,
+            "icon-image": "/assets/images/cookie-icons/purple-yam-icon.webp"
         },
 
         "Milk": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 32
+            "sortOrder": 32,
+            "icon-image": "/assets/images/cookie-icons/milk-icon.webp"
         },
 
         "Poison Mushroom": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 33
+            "sortOrder": 33,
+            "icon-image": "/assets/images/cookie-icons/poison-mushroom-icon.webp"
         },
 
         "Licorice": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 34
+            "sortOrder": 34,
+            "icon-image": "/assets/images/cookie-icons/licorice-icon.webp"
         },
 
         "Madeleine": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 35
+            "sortOrder": 35,
+            "icon-image": "/assets/images/cookie-icons/madeleine-icon.webp"
         },
 
         "Espresso": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 36
+            "sortOrder": 36,
+            "icon-image": "/assets/images/cookie-icons/espresso-icon.webp"
         },
 
         "Rye": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 37
+            "sortOrder": 37,
+            "icon-image": "/assets/images/cookie-icons/rye-icon.webp"
         },
 
         "Kumiho": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 38
+            "sortOrder": 38,
+            "icon-image": "/assets/images/cookie-icons/kumiho-icon.webp"
         },
 
         "Latte": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 40
+            "sortOrder": 40,
+            "icon-image": "/assets/images/cookie-icons/latte-icon.webp"
         },
 
         "Cream Puff": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 39
+            "sortOrder": 39,
+            "icon-image": "/assets/images/cookie-icons/cream-puff-icon.webp"
         },
 
         "Almond": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 41
+            "sortOrder": 41,
+            "icon-image": "/assets/images/cookie-icons/almond-icon.webp"
         },
 
         "Black Raisin": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 42
+            "sortOrder": 42,
+            "icon-image": "/assets/images/cookie-icons/black-raisin-icon.webp"
         },
 
         "Strawberry Crepe": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 44
+            "sortOrder": 44,
+            "icon-image": "/assets/images/cookie-icons/strawberry-crepe-icon.webp"
         },
 
         "Fig": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 45
+            "sortOrder": 45,
+            "icon-image": "/assets/images/cookie-icons/fig-icon.webp"
         },
 
         "Pastry": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 46
+            "sortOrder": 46,
+            "icon-image": "/assets/images/cookie-icons/pastry-icon.webp"
         },
 
         "Red Velvet": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 47
+            "sortOrder": 47,
+            "icon-image": "/assets/images/cookie-icons/red-velvet-icon.webp"
         },
 
         "Mango": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 48
+            "sortOrder": 48,
+            "icon-image": "/assets/images/cookie-icons/mango-icon.webp"
         },
 
         "Lilac": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 50
+            "sortOrder": 50,
+            "icon-image": "/assets/images/cookie-icons/lilac-icon.webp"
         },
 
         "Squid Ink": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 51
+            "sortOrder": 51,
+            "icon-image": "/assets/images/cookie-icons/squid-ink-icon.webp"
         },
 
         "Sorbet Shark": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 52
+            "sortOrder": 52,
+            "icon-image": "/assets/images/cookie-icons/sorbet-shark-icon.webp"
         },
 
         "Parfait": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 53
+            "sortOrder": 53,
+            "icon-image": "/assets/images/cookie-icons/parfait-icon.webp"
         },
 
         "Raspberry": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 55
+            "sortOrder": 55,
+            "icon-image": "/assets/images/cookie-icons/raspberry-icon.webp"
         },
 
         "Moon Rabbit": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 56
+            "sortOrder": 56,
+            "icon-image": "/assets/images/cookie-icons/moon-rabbit-icon.webp"
         },
 
         "Mala Sauce": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 59
+            "sortOrder": 59,
+            "icon-image": "/assets/images/cookie-icons/mala-sauce-icon.webp"
         },
 
         "Twizzly Gummy": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 60
+            "sortOrder": 60,
+            "icon-image": "/assets/images/cookie-icons/twizzly-gummy-icon.webp"
         },
 
         "Pumpkin Pie": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 61
+            "sortOrder": 61,
+            "icon-image": "/assets/images/cookie-icons/pumpkin-pie-icon.webp"
         },
 
         "Cotton": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 62
+            "sortOrder": 62,
+            "icon-image": "/assets/images/cookie-icons/cotton-icon.webp"
         },
 
         "Cocoa": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 64
+            "sortOrder": 64,
+            "icon-image": "/assets/images/cookie-icons/cocoa-icon.webp"
         },
 
         "Eclair": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 65
+            "sortOrder": 65,
+            "icon-image": "/assets/images/cookie-icons/eclair-icon.webp"
         },
 
         "Tea Knight": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 66
+            "sortOrder": 66,
+            "icon-image": "/assets/images/cookie-icons/tea-knight-icon.webp"
         },
 
         "Affogato": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 67
+            "sortOrder": 67,
+            "icon-image": "/assets/images/cookie-icons/affogato-icon.webp"
         },
 
         "Caramel Arrow": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 69
+            "sortOrder": 69,
+            "icon-image": "/assets/images/cookie-icons/caramel-arrow-icon.webp"
         },
 
         "Cherry Blossom": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 70
+            "sortOrder": 70,
+            "icon-image": "/assets/images/cookie-icons/cherry-blossom-icon.webp"
         },
 
         "Wildberry": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 72
+            "sortOrder": 72,
+            "icon-image": "/assets/images/cookie-icons/wildberry-icon.webp"
         },
 
         "Crunchy Chip": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 73
+            "sortOrder": 73,
+            "icon-image": "/assets/images/cookie-icons/crunchy-chip-icon.webp"
         },
 
         "Financier": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 75
+            "sortOrder": 75,
+            "icon-image": "/assets/images/cookie-icons/financier-icon.webp"
         },
 
         "Cream Unicorn": {
             "type": "Healer",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 76
+            "sortOrder": 76,
+            "icon-image": "/assets/images/cookie-icons/cream-unicorn-icon.webp"
         },
 
         "Captain Caviar": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 78
+            "sortOrder": 78,
+            "icon-image": "/assets/images/cookie-icons/captain-caviar-icon.webp"
         },
 
         "Candy Diver": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 79
+            "sortOrder": 79,
+            "icon-image": "/assets/images/cookie-icons/candy-diver-icon.webp"
         },
 
         "Schwarzwälder": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 88
+            "sortOrder": 88,
+            "icon-image": "/assets/images/cookie-icons/schwarzwalder-icon.webp"
         },
 
         "Macaron": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 89
+            "sortOrder": 89,
+            "icon-image": "/assets/images/cookie-icons/macaron-icon.webp"
         },
 
         "Carol": {
             "type": "Healer",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 90
+            "sortOrder": 90,
+            "icon-image": "/assets/images/cookie-icons/carol-icon.webp"
         },
 
         "Pinecone": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 91
+            "sortOrder": 91,
+            "icon-image": "/assets/images/cookie-icons/pinecone-icon.webp"
         },
 
         "Prophet": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 92
+            "sortOrder": 92,
+            "icon-image": "/assets/images/cookie-icons/prophet-icon.webp"
         },
 
         "Milky Way": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 93
+            "sortOrder": 93,
+            "icon-image": "/assets/images/cookie-icons/milky-way-icon.webp"
         },
 
         "Blueberry Pie": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 95
+            "sortOrder": 95,
+            "icon-image": "/assets/images/cookie-icons/blueberry-pie-icon.webp"
         },
 
         "Space Doughnut": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 96
+            "sortOrder": 96,
+            "icon-image": "/assets/images/cookie-icons/space-doughnut-icon.webp"
         },
 
         "Prune Juice": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 99
+            "sortOrder": 99,
+            "icon-image": "/assets/images/cookie-icons/prune-juice-icon.webp"
         },
 
         "Kouign-Amann": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 100
+            "sortOrder": 100,
+            "icon-image": "/assets/images/cookie-icons/kouign-amann-icon.webp"
         },
 
         "Royal Margarine": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 102
+            "sortOrder": 102,
+            "icon-image": "/assets/images/cookie-icons/royal-margarine-icon.webp"
         },
 
         "Tarte Tatin": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 103
+            "sortOrder": 103,
+            "icon-image": "/assets/images/cookie-icons/tarte-tatin-icon.webp"
         },
 
         "Rockstar": {
             "type": "Healer",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 104
+            "sortOrder": 104,
+            "icon-image": "/assets/images/cookie-icons/rockstar-icon.webp"
         },
 
         "Black Lemonade": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 106
+            "sortOrder": 106,
+            "icon-image": "/assets/images/cookie-icons/black-lemonade-icon.webp"
         },
 
         "Peppermint": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 107
+            "sortOrder": 107,
+            "icon-image": "/assets/images/cookie-icons/peppermint-icon.webp"
         },
 
-        "Frilled Jelly": {
+        "Frilled Jellyfish": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 109
+            "sortOrder": 109,
+            "icon-image": "/assets/images/cookie-icons/frilled-jellyfish-icon.webp"
         },
 
         "Burnt Cheese": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 110
+            "sortOrder": 110,
+            "icon-image": "/assets/images/cookie-icons/burnt-cheese-icon.webp"
         },
 
         "Fettuccine": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 112
+            "sortOrder": 112,
+            "icon-image": "/assets/images/cookie-icons/fettuccine-icon.webp"
         },
 
         "Mozzarella": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 113
+            "sortOrder": 113,
+            "icon-image": "/assets/images/cookie-icons/mozzarella-icon.webp"
         },
 
         "Olive": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 114
+            "sortOrder": 114,
+            "icon-image": "/assets/images/cookie-icons/olive-icon.webp"
         },
 
         "Linzer": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 117
+            "sortOrder": 117,
+            "icon-image": "/assets/images/cookie-icons/linzer-icon.webp"    
         },
 
         "Crème Brûlée Cookie": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 116
+            "sortOrder": 116,
+            "icon-image": "/assets/images/cookie-icons/creme-brulee-icon.webp"
         },
 
         "Rebel": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 118
+            "sortOrder": 118,
+            "icon-image": "/assets/images/cookie-icons/rebel-icon.webp"
         },
 
         "Silverbell": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 119
+            "sortOrder": 119,
+            "icon-image": "/assets/images/cookie-icons/silverbell-icon.webp"
         },
 
         "Mercurial Knight": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 121
+            "sortOrder": 121,
+            "icon-image": "/assets/images/cookie-icons/mercurial-knight-icon.webp"
         },
 
         "Matcha": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 123
+            "sortOrder": 123,
+            "icon-image": "/assets/images/cookie-icons/matcha-icon.webp"
         },
 
         "Butter Roll": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 124
+            "sortOrder": 124,
+            "icon-image": "/assets/images/cookie-icons/butter-roll-icon.webp"
         },
         
         "Caramel Choux": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 125
+            "sortOrder": 125,
+            "icon-image": "/assets/images/cookie-icons/caramel-choux-icon.webp"
         },
 
         "Street Urchin": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 126
+            "sortOrder": 126,
+            "icon-image": "/assets/images/cookie-icons/street-urchin-icon.webp"
         },
 
         "Cloud Haetae": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 127
+            "sortOrder": 127,
+            "icon-image": "/assets/images/cookie-icons/cloud-haetae-icon.webp"
         },
 
         "Peach Blossom": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 130
+            "sortOrder": 130,
+            "icon-image": "/assets/images/cookie-icons/peach-blossom-icon.webp"
         },
 
         "Star Coral": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 132
+            "sortOrder": 132,
+            "icon-image": "/assets/images/cookie-icons/star-coral-icon.webp"
         },
 
-        "Nutmeg": {
+        "Nutmeg Tiger": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 135
+            "sortOrder": 135,
+            "icon-image": "/assets/images/cookie-icons/nutmeg-tiger-icon.webp"
         },
 
         "Smoked Cheese": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 136
+            "sortOrder": 136,
+            "icon-image": "/assets/images/cookie-icons/smoked-cheese-icon.webp"
         },
 
         "Golden Osmanthus": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 138
+            "sortOrder": 138,
+            "icon-image": "/assets/images/cookie-icons/golden-osmanthus-icon.webp"
         },
 
         "Red Osmanthus": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 139
+            "sortOrder": 139,
+            "icon-image": "/assets/images/cookie-icons/red-osmanthus-icon.webp"
         },
 
         "Choco Drizzle": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 140
+            "sortOrder": 140,
+            "icon-image": "/assets/images/cookie-icons/choco-drizzle-icon.webp"
         },
 
         "Pudding à la Mode": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 141
+            "sortOrder": 141,
+            "icon-image": "/assets/images/cookie-icons/pudding-a-la-mode-icon.webp"
         },
 
         "Green Tea Mousse": {
             "type": "Defense",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 142
+            "sortOrder": 142,
+            "icon-image": "/assets/images/cookie-icons/green-tea-mousse-icon.webp"
         },
 
         "Okchun": {
             "type": "Healer",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 143
+            "sortOrder": 143,
+            "icon-image": "/assets/images/cookie-icons/okchun-icon.webp"
         },
 
         "Candy Apple": {
             "type": "Bomber",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 144
+            "sortOrder": 144,
+            "icon-image": "/assets/images/cookie-icons/candy-apple-icon.webp"
         },
 
         "Black Sapphire": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 146
+            "sortOrder": 146,
+            "icon-image": "/assets/images/cookie-icons/black-sapphire-icon.webp"
         },
 
         "Black Forest": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 139
+            "sortOrder": 139,
+            "icon-image": "/assets/images/cookie-icons/black-forest-icon.webp"
         },
 
         "Wedding Cake": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 140
+            "sortOrder": 140,
+            "icon-image": "/assets/images/cookie-icons/wedding-cake-icon.webp"
         },
 
         "Agar Agar": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 141
+            "sortOrder": 141,
+            "icon-image": "/assets/images/cookie-icons/agar-agar-icon.webp"
         },
 
         "Pavlova": {
             "type": "Ranged",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 146
+            "sortOrder": 146,
+            "icon-image": "/assets/images/cookie-icons/pavlova-icon.webp"
         },
 
         "Sugarfly": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 148
+            "sortOrder": 148,
+            "icon-image": "/assets/images/cookie-icons/sugarfly-icon.webp"
         },
 
         "Cream Soda": {
             "type": "Charge",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 149
+            "sortOrder": 149,
+            "icon-image": "/assets/images/cookie-icons/cream-soda-icon.webp"
         },
 
         "Lemon": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Middle",
-            "sortOrder": 150
+            "sortOrder": 150,
+            "icon-image": "/assets/images/cookie-icons/lemon-icon.webp"
         },
 
         "Orange": {
             "type": "Magic",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 152
+            "sortOrder": 152,
+            "icon-image": "/assets/images/cookie-icons/orange-icon.webp"
         },
 
         "Jagae": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Front",
-            "sortOrder": 153
+            "sortOrder": 153,
+            "icon-image": "/assets/images/cookie-icons/jagae-icon.webp" 
         },
 
         "Manju": {
             "type": "Ambush",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 154
+            "sortOrder": 154,
+            "icon-image": "/assets/images/cookie-icons/manju-icon.webp"
         },
 
         "Lime": {
             "type": "Support",
             "rarity": "Epic",
             "position": "Back",
-            "sortOrder": 155
+            "sortOrder": 155,
+            "icon-image": "/assets/images/cookie-icons/lime-icon.webp"
         },
 
         "Clotted Cream": {
             "type": "Magic",
             "rarity": "Super Epic",
             "position": "Middle",
-            "sortOrder": 71
+            "sortOrder": 71,
+            "icon-image": "/assets/images/cookie-icons/clotted-cream-icon.webp"
         },
 
         "Oyster": {
             "type": "Support",
             "rarity": "Super Epic",
             "position": "Back",
-            "sortOrder": 74
+            "sortOrder": 74,
+            "icon-image": "/assets/images/cookie-icons/oyster-icon.webp"
         },
 
         "Sherbet": {
             "type": "Ranged",
             "rarity": "Super Epic",
             "position": "Middle",
-            "sortOrder": 90
+            "sortOrder": 90,
+            "icon-image": "/assets/images/cookie-icons/sherbet-icon.webp"
         },
 
         "Stardust": {
             "type": "Ambush",
             "rarity": "Super Epic",
             "position": "Middle",
-            "sortOrder": 97
+            "sortOrder": 97,
+            "icon-image": "/assets/images/cookie-icons/stardust-icon.webp"
         },
 
         "Capsaicin": {
             "type": "Charge",
             "rarity": "Super Epic",
             "position": "Front",
-            "sortOrder": 98
+            "sortOrder": 98,
+            "icon-image": "/assets/images/cookie-icons/capsaicin-icon.webp"
         },
 
         "Shining Glitter": {
             "type": "Magic",
             "rarity": "Super Epic",
             "position": "Middle",
-            "sortOrder": 105
+            "sortOrder": 105,
+            "icon-image": "/assets/images/cookie-icons/shining-glitter-icon.webp"
         },
 
         "Crimson Coral": {
             "type": "Defense",
             "rarity": "Super Epic",
             "position": "Front",
-            "sortOrder": 108
+            "sortOrder": 108,
+            "icon-image": "/assets/images/cookie-icons/crimson-coral-icon.webp"
         },
 
         "Elder Faerie": {
             "type": "Defense",
             "rarity": "Super Epic",
             "position": "Front",
-            "sortOrder": 122
+            "sortOrder": 122,
+            "icon-image": "/assets/images/cookie-icons/elder-faerie-icon.webp"
         },
 
         "Camellia": {
             "type": "Charge",
             "rarity": "Super Epic",
             "position": "Front",
-            "sortOrder": 137
+            "sortOrder": 137,
+            "icon-image": "/assets/images/cookie-icons/camellia-icon.webp"
         },
 
         "Pitaya": {
             "type": "Charge",
             "rarity": "Dragon",
             "position": "Front",
-            "sortOrder": 101
+            "sortOrder": 101,
+            "icon-image": "/assets/images/cookie-icons/pitaya-icon.webp"
         },
 
         "Sea Fairy": {
             "type": "Bomber",
             "rarity": "Legendary",
             "position": "Middle",
-            "sortOrder": 49
+            "sortOrder": 49,
+            "icon-image": "/assets/images/cookie-icons/sea-fairy-icon.webp"
         },
 
         "Black Pearl": {
             "type": "Ambush",
             "rarity": "Legendary",
             "position": "Middle",
-            "sortOrder": 77
+            "sortOrder": 77,
+            "icon-image": "/assets/images/cookie-icons/black-pearl-icon.webp"
         },
 
         "Frost Queen": {
             "type": "Magic",
             "rarity": "Legendary",
             "position": "Middle",
-            "sortOrder": 63
+            "sortOrder": 63,
+            "icon-image": "/assets/images/cookie-icons/frost-queen-icon.webp"
         },
 
         "Moonlight": {
             "type": "Magic",
             "rarity": "Legendary",
             "position": "Middle",
-            "sortOrder": 94
+            "sortOrder": 94,
+            "icon-image": "/assets/images/cookie-icons/moonlight-icon.webp"
         },
 
         "Stormbringer": {
             "type": "Charge",
             "rarity": "Legendary",
             "position": "Front",
-            "sortOrder": 160
+            "sortOrder": 160,
+            "icon-image": "/assets/images/cookie-icons/stormbringer-icon.webp"
         },
 
         "Wind Archer": {
             "type": "Ranged",
             "rarity": "Legendary",
             "position": "Back",
-            "sortOrder": 133
+            "sortOrder": 133,
+            "icon-image": "/assets/images/cookie-icons/wind-archer-icon.webp"
         },
 
         "Fire Spirit": {
             "type": "Magic",
             "rarity": "Legendary",
             "position": "Back",
-            "sortOrder": 143
+            "sortOrder": 143,
+            "icon-image": "/assets/images/cookie-icons/fire-spirit-icon.webp"
         },
 
         "Pure Vanilla": {
             "type": "Healer",
             "rarity": "Ancient",
             "position": "Back",
-            "sortOrder": 43
+            "sortOrder": 43,
+            "icon-image": "/assets/images/cookie-icons/pure-vanilla-icon.webp"
         },
 
         "Dark Cacao": {
             "type": "Charge",
             "rarity": "Ancient",
             "position": "Front",
-            "sortOrder": 68
+            "sortOrder": 68,
+            "icon-image": "/assets/images/cookie-icons/dark-cacao-icon.webp"
         },
 
         "Hollyberry": {
             "type": "Defense",
             "rarity": "Ancient",
             "position": "Front",
-            "sortOrder": 54
+            "sortOrder": 54,
+            "icon-image": "/assets/images/cookie-icons/hollyberry-icon.webp"
         },
 
         "Golden Cheese": {
             "type": "Ranged",
             "rarity": "Ancient",
             "position": "Middle",
-            "sortOrder": 111
+            "sortOrder": 111,
+            "icon-image": "/assets/images/cookie-icons/golden-cheese-icon.webp"
         },
 
         "White Lily": {
             "type": "Bomber",
             "rarity": "Ancient",
             "position": "Middle",
-            "sortOrder": 120
+            "sortOrder": 120,
+            "icon-image": "/assets/images/cookie-icons/white-lily-icon.webp"
         },
 
         "Dark Cacao Awakened": {
             "type": "Charge",
             "rarity": "Ancient Awakened",
             "position": "Front",
-            "sortOrder": 129
+            "sortOrder": 129,
+            "icon-image": "/assets/images/cookie-icons/awakened-dark-cacao-icon.webp"
         },
 
         "Golden Cheese Awakened": {
             "type": "Ranged",
             "rarity": "Ancient Awakened",
             "position": "Middle",
-            "sortOrder": 162
+            "sortOrder": 162,
+            "icon-image": "/assets/images/cookie-icons/awakened-golden-cheese-icon.webp"
         },
 
         "Pure Vanilla Awakened": {
             "type": "Healer",
             "rarity": "Ancient Awakened",
             "position": "Back",
-            "sortOrder": 137
+            "sortOrder": 137,
+            "icon-image": "/assets/images/cookie-icons/awakened-pure-vanilla-icon.webp"
         },
 
         "Hollyberry Awakened": {
             "type": "Defense",
             "rarity": "Ancient Awakened",
             "position": "Front",
-            "sortOrder": 147
+            "sortOrder": 147,
+            "icon-image": "/assets/images/cookie-icons/awakened-hollyberry-icon.webp"
         },
 
         "Mystic Flour": {
             "type": "Healer",
             "rarity": "Beast",
             "position": "Back",
-            "sortOrder": 128
+            "sortOrder": 128,
+            "icon-image": "/assets/images/cookie-icons/mystic-flour-icon.webp"
         },
 
         "Burning Spice": {
             "type": "Charge",
             "rarity": "Beast",
             "position": "Front",
-            "sortOrder": 134
+            "sortOrder": 134,
+            "icon-image": "/assets/images/cookie-icons/burning-spice-icon.webp"
         },
 
         "Shadow Milk": {
             "type": "Magic",
             "rarity": "Beast",
             "position": "Middle",
-            "sortOrder": 145
+            "sortOrder": 145,
+            "icon-image": "/assets/images/cookie-icons/shadow-milk-icon.webp"
         },
 
         "Eternal Sugar": {
             "type": "Bomber",
             "rarity": "Beast",
             "position": "Middle",
-            "sortOrder": 144
+            "sortOrder": 144,
+            "icon-image": "/assets/images/cookie-icons/eternal-sugar-icon.webp",
+            "builds": [
+                {
+                    "name": "Living Abyss Build",
+                    "toppings": [
+                        "Crit",
+                        "Crit",
+                        "Crit",
+                        "Atk",
+                        "Atk"
+                    ],
+                    "beascuit": [
+                        "Poison Dmg",
+                        "Poison Dmg",
+                        "Poison Dmg",
+                        "Poison Dmg"
+                    ],
+                    "tart": "Atk",
+                    "stats": "Attack: As high as possible, \nCrit: As high as possible, \nPoison Dmg: As high as possible"
+                },
+                {
+                    "name": "Arena HP Build",
+                    "toppings": [
+                        "HP",
+                        "HP",
+                        "HP",
+                        "Cooldown",
+                        "Cooldown"
+                    ],
+                    "beascuit": [
+                        "Dmg Res Bypass",
+                        "Dmg Res Bypass",
+                        "Dmg Res Bypass",
+                        "Dmg Res Bypass"
+                    ],
+                    "tart": "HP",
+                    "stats": "HP: As high as possible, more than HBA, \nCooldown: As high as possible, \nDmg Res Bypass: As high as possible",
+                    "notes": "Check Eternal Sugar's total HP and then multiply it by 1.35, to ensure that it's higher than HBA's HP.",
+                    "Seasons": ["Fiery Passion Season 1", "Fiery Passion Season 2"]
+                }
+
+                
+            ]
         }
         
     }

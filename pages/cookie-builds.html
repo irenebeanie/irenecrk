@@ -23,8 +23,8 @@
          </script>
 
         <div class="main-content">
-            <h1>Cookie Builds</h1>
-            <p>Select Cookie below to see build!</p>
+            <h1 id="main-title">Cookie Builds</h1>
+            <p id="main-subtitle">Select Cookie below to see build!</p>
 
             <div id="cookie-container" class="cookie-grid-wrapper">
                 <div class="cookie-grid">
@@ -38,6 +38,12 @@
               </div>
             </div>
 
+            <div id="build-view" style="display:none;">
+                <button id="back-to-showcase" class="build-back-btn">← Back to Showcase</button>
+                <div id="build-graphic"></div> <!-- Placeholder for future graphic -->
+                <div id="build-detail"></div>
+                <div id="build-nav" class="build-nav"></div>
+            </div>
         </div>
 
         <!-- footer -->
